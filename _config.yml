@@ -1,6 +1,6 @@
 title: "Yuanyuan Zhang"
 description: "Graduate Student at Boston University"
-url: "https://yourusername.github.io"
+url: "https://zhyyhola.github.io"
 baseurl: ""
 
 remote_theme: mmistakes/minimal-mistakes
@@ -9,6 +9,6 @@ plugins:
 
 author:
   name: "Yuanyuan Zhang"
-  avatar: "/assets/images/your-photo.jpg"
+  avatar: "/assets/my-photo.jpg"
   bio: "Graduate student specializing in syntax and semantics."
 
