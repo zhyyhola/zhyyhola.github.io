@@ -4,7 +4,9 @@ description: "A site showcasing my academic work and interests."
 baseurl: "" # 如果是根目录，留空
 url: "https://your-username.github.io"
 
-theme: jekyll-theme-minimal # 或其他主题
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
 
 # 插件（如需）
 plugins:
