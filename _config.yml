@@ -2,7 +2,7 @@
 title: "Yuanyuan Zhang's Website"
 description: "Personal website of Yuanyuan Zhang"
 baseurl: "" # 如果托管在根目录，留空；如果在子目录，填写 "/your-repo-name"
-url: "https://yourusername.github.io"
+url: "https://zhyyhola.github.io"
 
 # Theme settings
 remote_theme: mmistakes/minimal-mistakes
