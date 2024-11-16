@@ -5,7 +5,7 @@ title: Welcome to my website
 
 <div style="text-align: center; padding: 20px; background-color: #f8f9fa;">
   <h1 style="color: #2c3e50; font-family: 'Roboto', sans-serif;">Welcome to My Website</h1>
-  <img src="zhyyhola/assets/image.jpg" alt="My Photo" style="width:200px; border-radius:50%; margin: 20px auto; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+  <img src="zhyyhola.github.io/assets/my-photo.jpg" alt="My Photo" style="width:200px; border-radius:50%; margin: 20px auto; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
 </div>
 
 <nav style="background-color: #ffffff; padding: 10px; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd;">
