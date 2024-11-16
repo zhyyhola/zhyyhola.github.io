@@ -1,14 +1,3 @@
-title: "Yuanyuan Zhang"
-description: "Graduate Student at Boston University"
-url: "https://zhyyhola.github.io"
-baseurl: ""
-
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
-
-author:
-  name: "Yuanyuan Zhang"
-  avatar: "/assets/my-photo.jpg"
-  bio: "Graduate student specializing in syntax and semantics."
-
