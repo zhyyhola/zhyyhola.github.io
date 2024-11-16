@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Home
+layout: home
+title: Welcome to my website
 ---
 
 <div style="text-align: center; padding: 20px; background-color: #f8f9fa;">
