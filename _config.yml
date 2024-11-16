@@ -1,9 +1,14 @@
-title: "Yuanyuan's Personal Website"
-description: "Welcome to my personal website!"
-baseurl: "" # 根目录为空
+title: "Yuanyuan Zhang"
+description: "Graduate Student at Boston University"
 url: "https://yourusername.github.io"
+baseurl: ""
 
-# 主题相关配置（根据主题文档更新）
-theme_settings:
-  color_scheme: "dark"
-  show_avatar: true
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
+
+author:
+  name: "Yuanyuan Zhang"
+  avatar: "/assets/images/your-photo.jpg"
+  bio: "Graduate student specializing in syntax and semantics."
+
