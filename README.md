@@ -1,4 +1,4 @@
-# Personal Website
+# Yuanyuan Zhang
 
 Welcome to my personal website! This site is organized into three main sections:
 
