@@ -1,21 +1,4 @@
-# Site settings
-title: "Yuanyuan Zhang's Website"
-description: "Personal website of Yuanyuan Zhang"
-baseurl: "" # 如果托管在根目录，留空；如果在子目录，填写 "/your-repo-name"
-url: "https://zhyyhola.github.io"
+baseurl: "" # 如果托管在根目录
+url: "https://zhyyhola.github.io" # 你的 GitHub Pages URL
 
-# Theme settings
 remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-remote-theme
-
-# Navigation links
-nav_links:
-  - title: "About Me"
-    url: "/about/"
-  - title: "Research"
-    url: "/research/"
-  - title: "Teaching"
-    url: "/teaching/"
-    
-![My Photo](/assets/images/my-photo.jpg)
