@@ -10,7 +10,7 @@ Welcome to my personal website! This site is organized into three main sections:
 
 ## About Me
 
-I am a fourth-year graduate student from Boston University specializing in **syntax** and **semantics**. My research focuses on:
+I am a fourth-year graduate student at Boston University specializing in **syntax** and **semantics**. My research focuses on:
 
 - **Modality**: Understanding how languages encode possibility, necessity, and related concepts.
 - **Degree Semantics**: Exploring the linguistic mechanisms behind gradability and comparison.
