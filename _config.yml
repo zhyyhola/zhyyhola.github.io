@@ -1,11 +1,9 @@
+title: "Yuanyuan's Personal Website"
+description: "Welcome to my personal website!"
+baseurl: "" # 根目录为空
+url: "https://yourusername.github.io"
 
-title: "My Personal Website"
-description: "A site showcasing my academic work and interests."
-baseurl: "" # 如果是根目录，留空
-url: "https://your-username.github.io"
-
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-remote-theme
-
-
+# 主题相关配置（根据主题文档更新）
+theme_settings:
+  color_scheme: "dark"
+  show_avatar: true
