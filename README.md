@@ -25,7 +25,7 @@ This section highlights my academic research, including:
 
 - Current and past projects in **syntax** and **semantics**.
 - Work on **modality** and **degree semantics**.
-- Links to my publications and conference presentations.
+
 
 ---
 
@@ -45,7 +45,5 @@ For more details about my work or to connect with me, visit the **Contact** sect
 
 ---
 
-## License
 
-This website is licensed under the [MIT License](LICENSE). Feel free to adapt or use it as a template for your own project.
 
