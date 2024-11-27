@@ -10,11 +10,11 @@ My research focuses on **modality** and **degree semantics** in natural language
 
 ## Selected Presentations
 
-- **2023.3:** *Language Attitudes Towards the Lianyungang Dialect*, The 8th International Conference on Language Documentation & Conservation (ICLDC 8), Hawaii, US.
-- **2023.1:** *Acoustic correlates of Mongolian Stress are better explained by default-to-same than default-to-opposite: a preliminary investigation*, LSA 97th Annual Meeting, Denver, US.  
+- **2023:** *Language Attitudes Towards the Lianyungang Dialect*, The 8th International Conference on Language Documentation & Conservation (ICLDC 8), Hawaii, US.
+- **2023:** *Acoustic correlates of Mongolian Stress are better explained by default-to-same than default-to-opposite: a preliminary investigation*, LSA 97th Annual Meeting, Denver, US.  
   <small>(Co-authored with Ryan Chon, Yin Wang, Joe Garcia, and Kate L. Lindsey)</small>
-- **2019.5:** *The Study on Modal Dei in Lianyungang Dialect*, The 27th Annual Conference of the International Association of Chinese Linguistics (IACL-27), Kobe, Japan.
-- **2018.11:** *The Preverbal and Post-verbal Modal Constructions: A Case in Lianyungang Dialect*, The 8th International Conference on Formal Linguistics (ICFL-8), Hangzhou, China.
+- **2019:** *The Study on Modal Dei in Lianyungang Dialect*, The 27th Annual Conference of the International Association of Chinese Linguistics (IACL-27), Kobe, Japan.
+- **2018:** *The Preverbal and Post-verbal Modal Constructions: A Case in Lianyungang Dialect*, The 8th International Conference on Formal Linguistics (ICFL-8), Hangzhou, China.
 
 ## Research Interests
 
