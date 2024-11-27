@@ -69,6 +69,17 @@
       padding-left: 1.5rem;
     }
 
+    /* 图片样式 */
+    .profile-photo {
+      display: block;
+      margin: 1rem auto;
+      border-radius: 50%; /* 圆形图片 */
+      width: 150px;
+      height: 150px;
+      object-fit: cover; /* 确保图片比例不变 */
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
     /* 页脚 */
     footer {
       text-align: center;
@@ -93,9 +104,13 @@
   </nav>
   <div class="container">
     <h2>Welcome!</h2>
+
+    <!-- 插入照片 -->
+    <img src="assets/mp.jpg" alt="Yuanyuan Zhang's Photo" class="profile-photo">
+
     <p>
       I am Yuanyuan Zhang, a fourth-year graduate student at Boston University, specializing in syntax and semantics. My research focuses on the interplay between language structure and meaning.
-      Outside academia, I enjoy swimming and exploring nature. These simple joys inspire my work and life.
+      Outside academia, I enjoy cooking soups and exploring nature. These simple joys inspire my work and life.
     </p>
   </div>
   <footer>
@@ -103,6 +118,7 @@
   </footer>
 </body>
 </html>
+
 
 
 
