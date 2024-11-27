@@ -5,39 +5,57 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Yuanyuan Zhang's Website</title>
   <style>
+    /* 全局样式 */
     body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      line-height: 1.8;
       margin: 0;
       padding: 0;
-      background-color: #f4f4f4;
-      color: #333;
+      background-color: #f9f9f9; /* 明亮背景 */
+      color: #333; /* 深灰文字 */
     }
     header {
-      background: #333;
-      color: #fff;
-      padding: 1rem 0;
+      background-color: #4CAF50; /* 清新的绿色 */
+      color: white;
+      padding: 1.5rem 0;
       text-align: center;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      margin: 0.5rem 0 0;
+      font-size: 1.2rem;
+    }
+
     nav {
       display: flex;
       justify-content: center;
-      background: #444;
+      background-color: white;
+      border-bottom: 1px solid #ddd;
       padding: 0.5rem 0;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
     }
     nav a {
-      color: #fff;
+      color: #4CAF50;
       text-decoration: none;
-      padding: 0.5rem 1rem;
+      margin: 0 1rem;
+      font-size: 1rem;
+      font-weight: bold;
     }
     nav a:hover {
-      background: #555;
+      color: #2E7D32; /* 深绿色 */
     }
+
     .container {
       max-width: 800px;
-      margin: 20px auto;
-      padding: 20px;
-      background: #fff;
+      margin: 2rem auto;
+      padding: 1rem 1.5rem;
+      background: white;
       border-radius: 8px;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
@@ -46,19 +64,33 @@
       margin: 0 auto;
       border-radius: 50%;
       max-width: 150px;
+      border: 2px solid #ddd;
+    }
+    h2 {
+      text-align: center;
+      color: #4CAF50;
     }
     footer {
       text-align: center;
       padding: 1rem 0;
-      background: #333;
-      color: #fff;
+      background: #f1f1f1; /* 浅灰色背景 */
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #666;
+    }
+    footer a {
+      color: #4CAF50;
+      text-decoration: none;
+    }
+    footer a:hover {
+      color: #2E7D32;
     }
   </style>
 </head>
 <body>
   <header>
-    <h1>Welcome to Yuanyuan Zhang's Website</h1>
-    <p>Graduate Student | Syntax & Semantics Enthusiast | Food Lover</p>
+    <h1>Yuanyuan Zhang</h1>
+    <p>Graduate Student | Computational Linguistics | Syntax & Semantics</p>
   </header>
   <nav>
     <a href="/about/">About Me</a>
@@ -67,22 +99,20 @@
     <a href="/contact/">Contact</a>
   </nav>
   <div class="container">
-    <img src="/assets/my-photo.jpg" alt="Yuanyuan Zhang's Photo" class="photo">
-    <h2>Hi, I'm Yuanyuan Zhang!</h2>
-    <p>
-      I'm a fourth-year graduate student at Boston University specializing in linguistics, particularly in syntax and semantics. 
-      I enjoy exploring the structure and meaning of language and applying computational methods to understand linguistic phenomena better.
-    </p>
-    <p>When I'm not diving into research, you can find me:</p>
+    <img src="/assets/images/my-photo.jpg" alt="Yuanyuan Zhang's Photo" class="photo">
+    <h2>Welcome!</h2>
+    <p>Hello! I'm Yuanyuan Zhang, a fourth-year graduate student at Boston University specializing in computational linguistics. My research focuses on syntax and semantics, combining theoretical and computational approaches to uncover the intricacies of language.</p>
+    <p>Beyond my academic pursuits, I enjoy:</p>
     <ul>
-      <li>Cooking delicious meals (especially soups!)</li>
-      <li>Swimming to refresh my mind and body</li>
-      <li>Reading books that inspire curiosity</li>
+      <li>🍲 Making hearty soups and experimenting with recipes.</li>
+      <li>🏊‍♀️ Swimming to refresh my mind.</li>
+      <li>🍂 Collecting autumn leaves during walks.</li>
+      <li>📚 Reading books that inspire curiosity.</li>
     </ul>
-    <p>Feel free to explore my research, teaching, and personal projects. Thanks for visiting!</p>
+    <p>Feel free to explore my research, teaching, and personal projects. Thanks for stopping by!</p>
   </div>
   <footer>
-    <p>&copy; 2024 Yuanyuan Zhang. All rights reserved.</p>
+    <p>&copy; 2024 Yuanyuan Zhang | <a href="mailto:your-email@example.com">Contact Me</a></p>
   </footer>
 </body>
 </html>
