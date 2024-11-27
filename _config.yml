@@ -5,7 +5,7 @@ baseurl: "" # 如果托管在根目录，留空；如果在子目录，填写 "/
 url: "https://zhyyhola.github.io"
 
 # Theme settings
-remote_theme: mmistakes/minimal-mistakes
+theme: minima
 plugins:
   - jekyll-remote-theme
 
