@@ -78,9 +78,6 @@
     <p>
       Outside of academia, I find joy in connecting with nature and cultural traditions. From cooking hearty soups to collecting autumn leaves, these small activities inspire creativity and balance in my life.
     </p>
-    <p>
-      Thank you for visiting my page! Please feel free to explore my research, teaching, and other projects on this website.
-    </p>
   </div>
   <footer>
     &copy; 2024 Yuanyuan Zhang | All rights reserved.
