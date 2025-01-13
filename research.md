@@ -9,7 +9,7 @@ permalink: /research/
 My research focuses on **modality** and **degree semantics** in natural language. Specifically, I investigate how linguistic structures express meaning and how language interacts with thought. Below are some highlights from my academic work and conference presentations:
 
 ## Selected Presentations
-
+- **2025:** *How can zenme(yang) be so?*, LSA 99th Annual Meeting, Philadelphia, US.
 - **2023:** *Language Attitudes Towards the Lianyungang Dialect*, The 8th International Conference on Language Documentation & Conservation (ICLDC 8), Hawaii, US.
 - **2023:** *Acoustic correlates of Mongolian Stress are better explained by default-to-same than default-to-opposite: a preliminary investigation*, LSA 97th Annual Meeting, Denver, US.  
   <small>(Co-authored with Ryan Chon, Yin Wang, Joe Garcia, and Kate L. Lindsey)</small>
