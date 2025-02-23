@@ -13,6 +13,5 @@ permalink: /about/
   My academic journey also brought me to explore less commonly studied languages. For instance, I conducted research on Mongolian and learned about its fascinating grammatical structures. My passion for linguistics extends to understanding the intricate relationship between language structure and human thought.
 </p>
 <p>
-  Outside of academia, I find joy in connecting with nature and cultural traditions. From cooking hearty soups to collecting autumn leaves, these small activities inspire creativity and balance in my life.
-</p>
+
 
