@@ -6,7 +6,7 @@ permalink: /research/
 
 # Research
 
-My research focuses on **modality** and **degree semantics** in natural language. Specifically, I investigate how linguistic structures express meaning and how language interacts with thought. Below are some highlights from my academic work and conference presentations:
+My research focuses on **modality** and **degree semantics** in natural language. Below are some highlights from my academic work and conference presentations:
 
 ## Selected Presentations
 - **2025:** *How can zenme(yang) be so?*, LSA 99th Annual Meeting, Philadelphia, US.
@@ -24,8 +24,7 @@ My research focuses on **modality** and **degree semantics** in natural language
   Studying degree expressions in Mandarin Chinese, such as adjectives and degree adverbs, and their syntactic and semantic properties.
 - **Language Documentation:**  
   Exploring the linguistic attitudes and structures of underrepresented languages, such as Mongolian and regional Chinese dialects.
-- **Language and Thought:**  
-  Examining the relationship between linguistic structure and cognitive processes, with a focus on how language shapes human thinking.
+
 
 Thank you for your interest in my research! If you'd like to learn more, feel free to contact me or explore other sections of my website.
 
