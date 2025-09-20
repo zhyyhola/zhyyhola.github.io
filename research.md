@@ -19,7 +19,7 @@ My research focuses on **modality** and **degree semantics** in natural language
 ## Research Interests
 
 - **Modality:**  
-  Investigating how different types of modality (e.g., deontic, epistemic, dynamic) are expressed across dialects, particularly in Central Plains Mandarin and Lianyungang Dialect.
+  Investigating how different types of modality (e.g., deontic, epistemic, dynamic) are expressed across dialects, particularly in Central Plains Mandarin.
 - **Degree Semantics:**  
   Studying degree expressions in Mandarin Chinese, such as adjectives and degree adverbs, and their syntactic and semantic properties.
 - **Language Documentation:**  
